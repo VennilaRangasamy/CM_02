@@ -4,6 +4,7 @@ public class Main {
         System.out.println("Janani");
         System.out.println("changes done");
         System.out.println("changes to pull")
+            System.out.println("changes to check")
 
     }
 }
